@@ -30,7 +30,7 @@ so that the audience can already familiarize themselves with the topic.
 |3 | 2023-09-26 | Daniil | Complex gold in RST | [[Slides]](https://drive.google.com/file/d/1F-F_GbBd1OUC4LD-SeEUudOsCwlItMOq/view?usp=sharing) |
 |5 | 2023-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
 |6 | 2023-10-10 | David van Kuijk | Challenges of Evaluating LLMs | |
-|7 | 2023-10-17 | Anna | TBA | |
+|7 | 2023-10-17 | Anna | EMNLP 2024 Prep | |
 |8 | 2023-10-24 | | | |
 |9 | 2023-10-31 | | | |
 |10 | 2023-11-07 |Anh | | |
